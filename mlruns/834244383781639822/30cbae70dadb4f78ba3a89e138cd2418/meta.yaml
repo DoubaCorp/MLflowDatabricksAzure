@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BADOU/Desktop/Cloud%20Native%20%26%20AI/Dossier%20Atelier%204-MLflow-Databricks-Azure/mlruns/834244383781639822/30cbae70dadb4f78ba3a89e138cd2418/artifacts
+end_time: 1699484293490
+entry_point_name: ''
+experiment_id: '834244383781639822'
+lifecycle_stage: active
+run_id: 30cbae70dadb4f78ba3a89e138cd2418
+run_name: resilient-horse-14
+run_uuid: 30cbae70dadb4f78ba3a89e138cd2418
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699484286275
+status: 3
+tags: []
+user_id: BADOU

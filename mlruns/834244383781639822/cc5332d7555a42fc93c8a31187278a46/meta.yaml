@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BADOU/Desktop/Cloud%20Native%20%26%20AI/Dossier%20Atelier%204-MLflow-Databricks-Azure/mlruns/834244383781639822/cc5332d7555a42fc93c8a31187278a46/artifacts
+end_time: 1699484388846
+entry_point_name: ''
+experiment_id: '834244383781639822'
+lifecycle_stage: active
+run_id: cc5332d7555a42fc93c8a31187278a46
+run_name: sassy-shark-510
+run_uuid: cc5332d7555a42fc93c8a31187278a46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699484383824
+status: 3
+tags: []
+user_id: BADOU
