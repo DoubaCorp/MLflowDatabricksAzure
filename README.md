@@ -8,6 +8,6 @@ Voici quelques screens de comparaison entre les modèles et un screen sur DataBr
 
   ![](images/CaptureAI.PNG)
 
-  ![](images/CapAI.PNG)
+  ![](images/capAI.PNG)
 
 
